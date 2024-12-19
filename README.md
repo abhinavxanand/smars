@@ -1,4 +1,4 @@
-# Multi-Agent Framework with RAG System
+#  SMARS- Speech-to-text Multi-Agent Adaptive Routing System
 
 A Streamlit-based application that combines AutoGen multi-agent framework with RAG (Retrieval Augmented Generation) capabilities, web search, and audio transcription. The system allows users to upload documents, record audio questions, and get intelligent responses through a sophisticated routing system.
 
